@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0254/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三衣顯正圖
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1103.xml
+    old_id: X59n1103
+hash: sha256:6b9d86bd8ef33813ece1ec02664e71042d0020d72f966dfca0939204350e51da

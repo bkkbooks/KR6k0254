@@ -1,0 +1,252 @@
+canonical_identifier: bkk:krp/KR6k0254/v1
+canonical_location: https://kanripo.org/bkk/KR6k0254/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 三衣顯正圖
+  identifiers:
+    alt_id:
+    - X59n1103
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1103.xml
+    old_id: X59n1103
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0254_000.yaml, hash: 'sha256:6b9d86bd8ef33813ece1ec02664e71042d0020d72f966dfca0939204350e51da'}
+  - {seq: 1, filename: KR6k0254_001.yaml, hash: 'sha256:bead66b28bc80ce19c54d68855c5fca61aa0fd548d68dd0755ad0ba6d82266ea'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0254_001.markers.yaml, hash: 'sha256:20512bd06a515012f507a71336e5812d24c3f583c28cc8047e69ef6d57d2953b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4710
+  label: 三衣顯正圖
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-2
+    span:
+    - body
+    - 819
+    - 819
+  label: 僧伽棃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-3
+    span:
+    - body
+    - 836
+    - 836
+  label: 受衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-4
+    span:
+    - body
+    - 891
+    - 891
+  label: 捨衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-5
+    span:
+    - body
+    - 1021
+    - 1021
+  label: 󳬂多羅僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-6
+    span:
+    - body
+    - 1066
+    - 1066
+  label: 安陀會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-7
+    span:
+    - body
+    - 1212
+    - 1212
+  label: 初示衣財色量
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-8
+    span:
+    - body
+    - 1296
+    - 1296
+  label: 二長短條表法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-9
+    span:
+    - body
+    - 1335
+    - 1335
+  label: 三刺一邊縵縫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-10
+    span:
+    - body
+    - 1438
+    - 1438
+  label: 四押葉鳥足縫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-11
+    span:
+    - body
+    - 1676
+    - 1676
+  label: 五條葉靡左右
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-12
+    span:
+    - body
+    - 1864
+    - 1864
+  label: 六助力貼四角
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-13
+    span:
+    - body
+    - 1902
+    - 1902
+  label: 七四周當安緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-14
+    span:
+    - body
+    - 1937
+    - 1937
+  label: 八節角刺卍字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-15
+    span:
+    - body
+    - 2097
+    - 2097
+  label: 九明破緣三縫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-16
+    span:
+    - body
+    - 2338
+    - 2338
+  label: 十重作縵刺縫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-17
+    span:
+    - body
+    - 3387
+    - 3387
+  label: 十一前後綴鈎紐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-18
+    span:
+    - body
+    - 3981
+    - 3981
+  label: 十二肩上垢膩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-19
+    span:
+    - body
+    - 4021
+    - 4021
+  label: 十三辨揲鈎紐處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-20
+    span:
+    - body
+    - 4207
+    - 4207
+  label: 十四會摘解文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0254_X_001-mulu-21
+    span:
+    - body
+    - 4451
+    - 4451
+  label: 十五畫圖憑肘量
+  type: mulu
+  level: 1
+hash: sha256:3a3eccd4066c8a1dc198abd2d5f78203575a6d592aa3dfc2fd40ace91030f27d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
