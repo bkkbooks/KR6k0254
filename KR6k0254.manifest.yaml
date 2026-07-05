@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0254_000.yaml, hash: 'sha256:6b9d86bd8ef33813ece1ec02664e71042d0020d72f966dfca0939204350e51da'}
-  - {seq: 1, filename: KR6k0254_001.yaml, hash: 'sha256:bead66b28bc80ce19c54d68855c5fca61aa0fd548d68dd0755ad0ba6d82266ea'}
+  - {seq: 1, filename: KR6k0254_001.yaml, hash: 'sha256:2833306c33f930e5d272bf504a300d447fe71a0d0cd23eb176d3a1f4f9a9a114'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0254_001.markers.yaml, hash: 'sha256:20512bd06a515012f507a71336e5812d24c3f583c28cc8047e69ef6d57d2953b'}
+  - {seq: 0, role: markers, filename: assets/KR6k0254_000.markers.yaml, hash: 'sha256:96820b55d0811042b0f1cb74ed29f7f38933dfbed1d108593c6f8bd8da26e3bb'}
+  - {seq: 1, role: markers, filename: assets/KR6k0254_001.markers.yaml, hash: 'sha256:f5d05e79fdd255f19627ae5d5c711dddcac9ef743c11d8bdbd7092056748b24a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -246,7 +247,4 @@ table_of_contents:
   label: 十五畫圖憑肘量
   type: mulu
   level: 1
-hash: sha256:3a3eccd4066c8a1dc198abd2d5f78203575a6d592aa3dfc2fd40ace91030f27d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:29ca9e65e3beef4e8b5db620feda237ec2b7a7ba0f36fdea75c756dfce06fb72
